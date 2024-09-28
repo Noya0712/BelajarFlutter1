@@ -6,8 +6,14 @@ A new Flutter project.
 
 ![Secreenshot yuda1](image/01.png)
 ![Secreenshot yuda1](image/02.png)
-![Secreenshot yuda1](image/03.png)
-![gif yuda1](./images/tudas.gif)
+![Secreenshot yuda1](image/03.jpg)
+![gif yuda1](./image/tudas.gif)
+![gif yuda](./image/gif2.gif)
+![gif yuda](./image/gif3.gif)
+![gif yuda](./image/gif4.gif)
+![gif yuda](./image/gif5.gif)
+![gif yuda](./image/gif6.gif)
+
 
 ## Getting Started
 
