@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'basic_widgets/text_widget.dart';
 import 'basic_widgets/image_widget.dart';
+import 'basic_widgets/loading_cupertino.dart';
 
 
 
@@ -36,7 +37,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      debugShowCheckedModeBanner: false,
+      home: const MyHomePage(title: 'Holut Yudawan'),
     );
   }
 }
@@ -122,6 +124,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            LoadingCupertino(),
           ],
         ),
       ),
